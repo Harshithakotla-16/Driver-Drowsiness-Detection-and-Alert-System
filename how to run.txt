@@ -1,0 +1,9 @@
+
+conda activate drowsiness
+
+cd /d C:\Users\VIKASH REDDY\Documents\AI Based Driver Drowsiness Detection and Alert System
+
+python drowsiness_detection.py
+
+
+conda activate drowsiness && cd /d "C:\Users\VIKASH REDDY\Documents\AI Based Driver Drowsiness Detection and Alert System" && python drowsiness_detection.py
