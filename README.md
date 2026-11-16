@@ -77,6 +77,19 @@ python src/detect.py
 - Support for detecting distraction (phone usage, head turns)
 
 
+## 👥 Team
+
+- **Boobeshsaravana BK**
+- **Devaraj K**
+
+## 🎓 Institution
+
+R.M.K Engineering College
+
+## 📄 License
+
+This project is open-source and available for academic and learning purposes.
+
 ### Acknowledgement
 
 This project is based on an existing Driver Drowsiness Detection project. I have worked on modifying, configuring, and extending it as part of my academic project.
